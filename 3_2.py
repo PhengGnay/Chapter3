@@ -31,9 +31,15 @@
 # num1 = input("Enter the first number: ")
 # num2 = input("Enter the second number: ")
 
-answer = eval(input("How many gallons does a ten-gallon hat hold?"))
-if (.5 <= answer <= 1):
-    print("Good, ", end="")
-else:
-    print("no, ", end="")
-print("it holds about 3/4 of a gallon.")
+# answer = eval(input("How many gallons does a ten-gallon hat hold?"))
+# if (.5 <= answer <= 1):
+#     print("Good, ", end="")
+# else:
+#     print("no, ", end="")
+# print("it holds about 3/4 of a gallon.")
+
+# def is_greater_than10():
+#     answer = eval(input("How many gallons does a ten-gallon hat hold"))
+#     if answer > 10:
+#         return True
+#     return False 
