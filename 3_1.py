@@ -28,3 +28,8 @@
 # list2.sort()
 # print(list2)
 
+state = "CA" 
+states = ["MD", "VA", "WV", "DE"]
+is_in_list = state in states 
+print(not(is_in_list)) #true because CA is not in the list
+print(not(is_in_list) and "VA" in states) # True True
