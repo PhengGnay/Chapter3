@@ -1,5 +1,3 @@
-
-
 # Relational Operator
 # <, <=, >, >=, !=, ==
 # Logical Operator 
